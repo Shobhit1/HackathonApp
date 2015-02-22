@@ -1,0 +1,958 @@
+{
+    "army": {
+        "logo": "http://www.defense.gov/multimedia/web_graphics/army/USAc.jpg",
+        "ranks": [
+            {
+                "payGrade": "E-1",
+                "abbreviation": "PVT",
+                "title": "Private",
+                "insigniaImage": null,
+                "insigniaImageHD": null
+            },
+            {
+                "payGrade": "E-2",
+                "abbreviation": "PV2",
+                "title": "Private 2",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_army/e2-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_army/e2-lrg.gif"
+            },
+            {
+                "payGrade": "E-3",
+                "abbreviation": "PFC",
+                "title": "Private First Class",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_army/e3-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_army/e3-lrg.gif"
+            },
+            {
+                "payGrade": "E-4",
+                "abbreviation": "SPC",
+                "title": "Specialist",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_army/e4-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_army/e4-lrg.gif"
+            },
+            {
+                "payGrade": "E-4",
+                "abbreviation": "CPL",
+                "title": "Corporal",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_army/e4b-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_army/e4b-lrg.gif"
+            },
+            {
+                "payGrade": "E-5",
+                "abbreviation": "SGT",
+                "title": "Sergeant",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_army/e5-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_army/e5-lrg.gif"
+            },
+            {
+                "payGrade": "E-6",
+                "abbreviation": "SSG",
+                "title": "Staff Sergeant",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_army/e6-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_army/e6-lrg.gif"
+            },
+            {
+                "payGrade": "E-7",
+                "abbreviation": "SFC",
+                "title": "Sergeant First Class",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_army/e7-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_army/e7-lrg.gif"
+            },
+            {
+                "payGrade": "E-8",
+                "abbreviation": "MSG",
+                "title": "Master Sergeant",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_army/e8-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_army/e8-lrg.gif"
+            },
+            {
+                "payGrade": "E-8",
+                "abbreviation": "1SG",
+                "title": "First  Sergeant",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_army/e8b-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_army/e8b-lrg.gif"
+            },
+            {
+                "payGrade": "E-9",
+                "abbreviation": "SGM",
+                "title": "Sergeant Major",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_army/e9-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_army/e9-lrg.gif"
+            },
+            {
+                "payGrade": "E-9",
+                "abbreviation": "CSM",
+                "title": "Command Sergeant Major",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_army/e9b-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_army/e9b-lrg.gif"
+            },
+            {
+                "payGrade": "E-9Special",
+                "abbreviation": "SMA",
+                "title": "Sergeant Major of the Army",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_army/e9c-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_army/e9c-lrg.gif"
+            },
+            {
+                "payGrade": "W-1",
+                "abbreviation": "WO1",
+                "title": "Warrant Officer",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_army/w1-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_army/w1-lrg.gif"
+            },
+            {
+                "payGrade": "W-2",
+                "abbreviation": "CW2",
+                "title": "Chief Warrant Officer 2",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_army/w2-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_army/w2-lrg.gif"
+            },
+            {
+                "payGrade": "W-3",
+                "abbreviation": "CW3",
+                "title": "Chief Warrant Officer 3",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_army/w3-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_army/w3-lrg.gif"
+            },
+            {
+                "payGrade": "W-4",
+                "abbreviation": "CW4",
+                "title": "Chief Warrant Officer 4",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_army/w4-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_army/w4-lrg.gif"
+            },
+            {
+                "payGrade": "W-5",
+                "abbreviation": "CW5",
+                "title": "Chief Warrant Officer 5",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_army/w5-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_army/w5-lrg.gif"
+            },
+            {
+                "payGrade": "O-1",
+                "abbreviation": "2LT",
+                "title": "Second Lieutenant",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/2lt-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/2lt-lrg.gif"
+            },
+            {
+                "payGrade": "O-2",
+                "abbreviation": "1LT",
+                "title": "First Lieutenant",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/1lt-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/1lt-lrg.gif"
+            },
+            {
+                "payGrade": "O-3",
+                "abbreviation": "CPT",
+                "title": "Captain",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/cap-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/cap-lrg.gif"
+            },
+            {
+                "payGrade": "O-4",
+                "abbreviation": "MAJ",
+                "title": "Major",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/maj-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/maj-lrg.gif"
+            },
+            {
+                "payGrade": "O-5",
+                "abbreviation": "LTC",
+                "title": "Lieutenant Colonel",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/ltcol-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/ltcol-lrg.gif"
+            },
+            {
+                "payGrade": "O-6",
+                "abbreviation": "COL",
+                "title": "Colonel",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/col-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/col-lrg.gif"
+            },
+            {
+                "payGrade": "O-7",
+                "abbreviation": "BG",
+                "title": "Brigadier General",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/briggen-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/briggen-lrg.gif"
+            },
+            {
+                "payGrade": "O-8",
+                "abbreviation": "MG",
+                "title": "Major General",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/majgen-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/majgen-lrg.gif"
+            },
+            {
+                "payGrade": "O-9",
+                "abbreviation": "LTG",
+                "title": "Lieutenant General",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/ltgen-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/ltgen-lrg.gif"
+            },
+            {
+                "payGrade": "O-10",
+                "abbreviation": "GEN",
+                "title": "General",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/gen4-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/gen4-lrg.gif"
+            }
+        ]
+    },
+    "marines": {
+        "logo": "http://www.defense.gov/multimedia/web_graphics/marines/USMCc.jpg",
+        "ranks": [
+            {
+                "payGrade": "E-1",
+                "abbreviation": "Pvt",
+                "title": "Private",
+                "insigniaImage": null,
+                "insigniaImageHD": null
+            },
+            {
+                "payGrade": "E-2",
+                "abbreviation": "PFC",
+                "title": "Private First Class",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/e2-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/e2-lrg.gif"
+            },
+            {
+                "payGrade": "E-3",
+                "abbreviation": "LCpL",
+                "title": "Lance Corporal",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/e3-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/e3-lrg.gif"
+            },
+            {
+                "payGrade": "E-4",
+                "abbreviation": "Cpl",
+                "title": "Corporal",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/e4-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/e4-lrg.gif"
+            },
+            {
+                "payGrade": "E-5",
+                "abbreviation": "Sgt",
+                "title": "Sergeant",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/e5-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/e5-lrg.gif"
+            },
+            {
+                "payGrade": "E-6",
+                "abbreviation": "SSgt",
+                "title": "Staff Sergeant",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/e6-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/e6-lrg.gif"
+            },
+            {
+                "payGrade": "E-7",
+                "abbreviation": "GySgt",
+                "title": "Gunnery Sergeant",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/e7-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/e7-lrg.gif"
+            },
+            {
+                "payGrade": "E-8",
+                "abbreviation": "MSgt",
+                "title": "Master Sergeant",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/e8-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/e8-lrg.gif"
+            },
+            {
+                "payGrade": "E-8",
+                "abbreviation": "1stSgt",
+                "title": "First Sergeant",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/e8b-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/e8b-lrg.gif"
+            },
+            {
+                "payGrade": "E-9",
+                "abbreviation": "MGySgt",
+                "title": "Master Gunnery  Sergeant",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/e9-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/e9-lrg.gif"
+            },
+            {
+                "payGrade": "E-9",
+                "abbreviation": "SgtMaj",
+                "title": "Sergeant Major",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/e9b-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/e9b-lrg.gif"
+            },
+            {
+                "payGrade": "E-9Special",
+                "abbreviation": "SgtMaj\n  MarCor",
+                "title": "Sergeant Major of the Marine Corps",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/e9c-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/e9c-lrg.gif"
+            },
+            {
+                "payGrade": "W-1",
+                "abbreviation": "WO",
+                "title": "Warrant Officer",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/w1-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/w1-lrg.gif"
+            },
+            {
+                "payGrade": "W-2",
+                "abbreviation": "CWO2",
+                "title": "Chief Warrant Officer 2",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/w2-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/w2-lrg.gif"
+            },
+            {
+                "payGrade": "W-3",
+                "abbreviation": "CWO3",
+                "title": "Chief Warrant Officer 3",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/w3-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/w3-lrg.gif"
+            },
+            {
+                "payGrade": "W-4",
+                "abbreviation": "CWO4",
+                "title": "Chief Warrant Officer 4",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/w4-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/w4-lrg.gif"
+            },
+            {
+                "payGrade": "W-5",
+                "abbreviation": "CWO5",
+                "title": "Chief Warrant Officer 5",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/w5-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/w5-lrg.gif"
+            },
+            {
+                "payGrade": "O-1",
+                "abbreviation": "2ndLt",
+                "title": "Second Lieutenant",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/2lt-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/2lt-lrg.gif"
+            },
+            {
+                "payGrade": "O-2",
+                "abbreviation": "1stLt",
+                "title": "First Lieutenant",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/1lt-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/1lt-lrg.gif"
+            },
+            {
+                "payGrade": "O-3",
+                "abbreviation": "Capt",
+                "title": "Captain",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/cap-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/cap-lrg.gif"
+            },
+            {
+                "payGrade": "O-4",
+                "abbreviation": "Maj",
+                "title": "Major",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/maj-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/maj-lrg.gif"
+            },
+            {
+                "payGrade": "O-5",
+                "abbreviation": "LtCol",
+                "title": "Lieutenant Colonel",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/ltcol-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/ltcol-lrg.gif"
+            },
+            {
+                "payGrade": "O-6",
+                "abbreviation": "Col",
+                "title": "Colonel",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/col-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/col-lrg.gif"
+            },
+            {
+                "payGrade": "O-7",
+                "abbreviation": "BGen",
+                "title": "Brigadier General",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/briggen-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/briggen-lrg.gif"
+            },
+            {
+                "payGrade": "O-8",
+                "abbreviation": "MajGen",
+                "title": "Major General",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/majgen-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/majgen-lrg.gif"
+            },
+            {
+                "payGrade": "O-9",
+                "abbreviation": "LtGen",
+                "title": "Lieutenant General",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/ltgen-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/ltgen-lrg.gif"
+            },
+            {
+                "payGrade": "O-10",
+                "abbreviation": "Gen",
+                "title": "General",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_usmc/gen4-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_usmc/gen4-lrg.gif"
+            }
+        ]
+    },
+    "airForce": {
+        "logo": "http://www.defense.gov/multimedia/web_graphics/airforce/USAFc.jpg",
+        "ranks": [
+            {
+                "payGrade": "E-1",
+                "abbreviation": "AB",
+                "title": "Airman Basic",
+                "insigniaImage": null,
+                "insigniaImageHD": null
+            },
+            {
+                "payGrade": "E-2",
+                "abbreviation": "Amn",
+                "title": "Airman",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_af/e2-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_af/e2-lrg.gif"
+            },
+            {
+                "payGrade": "E-3",
+                "abbreviation": "A1C",
+                "title": "Airman First Class",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_af/e3-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_af/e3-lrg.gif"
+            },
+            {
+                "payGrade": "E-4",
+                "abbreviation": "SrA",
+                "title": "Senior Airman",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_af/e4-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_af/e4-lrg.gif"
+            },
+            {
+                "payGrade": "E-5",
+                "abbreviation": "SSgt",
+                "title": "Staff Sergeant",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_af/e5-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_af/e5-lrg.gif"
+            },
+            {
+                "payGrade": "E-6",
+                "abbreviation": "TSgt",
+                "title": "Technical Sergeant",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_af/e6-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_af/e6-lrg.gif"
+            },
+            {
+                "payGrade": "E-7",
+                "abbreviation": "MSgt",
+                "title": "Master Sergeant",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_af/e7a-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_af/e7a-lrg.gif"
+            },
+            {
+                "payGrade": "E-7",
+                "abbreviation": "MSgt",
+                "title": "Master Sergeant (Diamond)",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_af/e7b-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_af/e7b-lrg.gif"
+            },
+            {
+                "payGrade": "E-8",
+                "abbreviation": "SMSgt",
+                "title": "Senior Master  Sergeant",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_af/e8a-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_af/e8a-lrg.gif"
+            },
+            {
+                "payGrade": "E-8",
+                "abbreviation": "SMSgt",
+                "title": "Senior Master Sergeant (Diamond)",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_af/e8b-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_af/e8b-lrg.gif"
+            },
+            {
+                "payGrade": "E-9",
+                "abbreviation": "CMSgt",
+                "title": "Chief Master Sergeant",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_af/e9a-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_af/e9a-lrg.gif"
+            },
+            {
+                "payGrade": "E-9",
+                "abbreviation": "CMSgt",
+                "title": "Chief Master Sergeant (Diamond)",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_af/e9b-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_af/e9b-lrg.gif"
+            },
+            {
+                "payGrade": "E-9",
+                "abbreviation": "CCM",
+                "title": "Command Chief  Master Sergeant",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_af/e9c-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_af/e9c-lrg.gif"
+            },
+            {
+                "payGrade": "E-9Special",
+                "abbreviation": "CMSAF",
+                "title": "Chief Master Sergeant of the Air Force",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_af/e9d-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_af/e9d-lrg.gif"
+            },
+            {
+                "payGrade": "O-1",
+                "abbreviation": "2d Lt",
+                "title": "Second Lieutenant",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_af/2lt-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_af/2lt-lrg.gif"
+            },
+            {
+                "payGrade": "O-2",
+                "abbreviation": "1st Lt",
+                "title": "First Lieutenant",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_af/1lt-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_af/1lt-lrg.gif"
+            },
+            {
+                "payGrade": "O-3",
+                "abbreviation": "Capt",
+                "title": "Captain",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_af/cap-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_af/cap-lrg.gif"
+            },
+            {
+                "payGrade": "O-4",
+                "abbreviation": "Maj",
+                "title": "Major",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_af/maj-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_af/maj-lrg.gif"
+            },
+            {
+                "payGrade": "O-5",
+                "abbreviation": "Lt Col",
+                "title": "Lieutenant Colonel",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_af/ltcol-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_af/ltcol-lrg.gif"
+            },
+            {
+                "payGrade": "O-6",
+                "abbreviation": "Col",
+                "title": "Colonel",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_af/col-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_af/col-lrg.gif"
+            },
+            {
+                "payGrade": "O-7",
+                "abbreviation": "Brig Gen",
+                "title": "Brigadier General",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_af/briggen-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_af/briggen-lrg.gif"
+            },
+            {
+                "payGrade": "O-8",
+                "abbreviation": "Maj Gen",
+                "title": "Major General",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_af/majgen-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_af/majgen-lrg.gif"
+            },
+            {
+                "payGrade": "O-9",
+                "abbreviation": "Lt Gen",
+                "title": "Lieutenant General",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_af/ltgen-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_af/ltgen-lrg.gif"
+            },
+            {
+                "payGrade": "O-10",
+                "abbreviation": "Gen",
+                "title": "General Air Force Chief of Staff",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_af/gen4-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_af/gen4-lrg.gif"
+            },
+            {
+                "payGrade": "Special",
+                "abbreviation": "GAF",
+                "title": "General of the Air Force",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_af/gen5-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_af/gen5-lrg.gif"
+            }
+        ]
+    },
+    "navy": {
+        "logo": "http://www.defense.gov/multimedia/web_graphics/navy/USNc.jpg",
+        "ranks": [
+            {
+                "payGrade": "E-1",
+                "abbreviation": "SR",
+                "title": "Seaman Recruit",
+                "insigniaImage": null,
+                "insigniaImageHD": null
+            },
+            {
+                "payGrade": "E-2",
+                "abbreviation": "SA",
+                "title": "Seaman Apprentice",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_navy/e2-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_navy/e2-lrg.gif"
+            },
+            {
+                "payGrade": "E-3",
+                "abbreviation": "SN",
+                "title": "Seaman",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_navy/e3-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_navy/e3-lrg.gif"
+            },
+            {
+                "payGrade": "E-4",
+                "abbreviation": "PO3",
+                "title": "Petty Officer 3rd Class",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_navy/e4-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_navy/e4-lrg.gif"
+            },
+            {
+                "payGrade": "E-5",
+                "abbreviation": "PO2",
+                "title": "Petty Officer 2nd Class",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_navy/e5-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_navy/e5-lrg.gif"
+            },
+            {
+                "payGrade": "E-6",
+                "abbreviation": "PO1",
+                "title": "Petty Officer 1st Class",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_navy/e6-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_navy/e6-lrg.gif"
+            },
+            {
+                "payGrade": "E-7",
+                "abbreviation": "CPO",
+                "title": "Chief Petty Officer",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_navy/e7-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_navy/e7-lrg.gif"
+            },
+            {
+                "payGrade": "E-8",
+                "abbreviation": "SCPO",
+                "title": "Senior Chief Petty Officer",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_navy/e8-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_navy/e8-lrg.gif"
+            },
+            {
+                "payGrade": "E-9",
+                "abbreviation": "MCPO",
+                "title": "Master  Chief Petty Officer",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_navy/e9a-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_navy/e9a-lrg.gif"
+            },
+            {
+                "payGrade": "E-9",
+                "abbreviation": "",
+                "title": "Fleet / Commander Master Chief Petty Officer",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_navy/e9c-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_navy/e9c-lrg.gif"
+            },
+            {
+                "payGrade": "E-9Special",
+                "abbreviation": "MCPON",
+                "title": "Master Chief Petty Officer of the Navy",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_navy/e9d-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_navy/e9d-lrg.gif"
+            },
+            {
+                "payGrade": "W-2",
+                "abbreviation": "CWO2",
+                "title": "Chief Warrant Officer 2",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_navy/cwo2-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_navy/cwo2-lrg.gif"
+            },
+            {
+                "payGrade": "W-3",
+                "abbreviation": "CWO3",
+                "title": "Chief Warrant Officer 3",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_navy/cwo3-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_navy/cwo3-lrg.gif"
+            },
+            {
+                "payGrade": "W-4",
+                "abbreviation": "CWO4",
+                "title": "Chief Warrant Officer 4",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_navy/cwo4-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_navy/cwo4-lrg.gif"
+            },
+            {
+                "payGrade": "W-5",
+                "abbreviation": "CWO5",
+                "title": "Chief Warrant Officer 5",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_navy/cwo5-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_navy/cwo5-lrg.gif"
+            },
+            {
+                "payGrade": "O-1",
+                "abbreviation": "ENS",
+                "title": "Ensign",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_navy/2lt-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_navy/2lt-lrg.gif"
+            },
+            {
+                "payGrade": "O-2",
+                "abbreviation": "LTJG",
+                "title": "Lieutenant Junior Grade",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_navy/1lt-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_navy/1lt-lrg.gif"
+            },
+            {
+                "payGrade": "O-3",
+                "abbreviation": "LT",
+                "title": "Lieutenant",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_navy/cap-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_navy/cap-lrg.gif"
+            },
+            {
+                "payGrade": "O-4",
+                "abbreviation": "LCDR",
+                "title": "Lieutenant Commander",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_navy/maj-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_navy/maj-lrg.gif"
+            },
+            {
+                "payGrade": "O-5",
+                "abbreviation": "CDR",
+                "title": "Commander",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_navy/ltcol-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_navy/ltcol-lrg.gif"
+            },
+            {
+                "payGrade": "O-6",
+                "abbreviation": "CAPT",
+                "title": "Captain",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_navy/col-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_navy/col-lrg.gif"
+            },
+            {
+                "payGrade": "O-7",
+                "abbreviation": "RDML",
+                "title": "Rear Admiral (Lwr Hlf)",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_navy/briggen-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_navy/briggen-lrg.gif"
+            },
+            {
+                "payGrade": "O-8",
+                "abbreviation": "RADM",
+                "title": "Rear Admiral (Uppr Hlf)",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_navy/majgen-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_navy/majgen-lrg.gif"
+            },
+            {
+                "payGrade": "O-9",
+                "abbreviation": "VADM",
+                "title": "Vice Admiral",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_navy/ltgen-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_navy/ltgen-lrg.gif"
+            },
+            {
+                "payGrade": "O-10",
+                "abbreviation": "ADM",
+                "title": "Admiral Chief of Naval Ops / Commandant of the CG",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_navy/gen4-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_navy/gen4-lrg.gif"
+            }
+        ]
+    },
+    "coastGuard": {
+        "logo": "http://www.defense.gov/multimedia/web_graphics/coastgrd/USCGc.jpg",
+        "ranks": [
+            {
+                "payGrade": "E-1",
+                "abbreviation": "SR",
+                "title": "Seaman Recruit",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e1-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e1-lrg.gif"
+            },
+            {
+                "payGrade": "E-2",
+                "abbreviation": "SA",
+                "title": "Seaman Apprentice",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e2a-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e2a-lrg.gif"
+            },
+            {
+                "payGrade": "E-2",
+                "abbreviation": "FA",
+                "title": "Fireman Apprentice",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e2b-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e2b-lrg.gif"
+            },
+            {
+                "payGrade": "E-2",
+                "abbreviation": "AA",
+                "title": "Airman Apprentice",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e2c-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e2c-lrg.gif"
+            },
+            {
+                "payGrade": "E-3",
+                "abbreviation": "SN",
+                "title": "Seaman",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e3a-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e3a-lrg.gif"
+            },
+            {
+                "payGrade": "E-3",
+                "abbreviation": "FN",
+                "title": "Fireman",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e3b-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e3b-lrg.gif"
+            },
+            {
+                "payGrade": "E-3",
+                "abbreviation": "AN",
+                "title": "Airman",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e3c-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e3c-lrg.gif"
+            },
+            {
+                "payGrade": "E-4",
+                "abbreviation": "PO3",
+                "title": "Petty Officer 3rd Class",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e4-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e4-lrg.gif"
+            },
+            {
+                "payGrade": "E-5",
+                "abbreviation": "PO2",
+                "title": "Petty Officer 2nd Class",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e5-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e5-lrg.gif"
+            },
+            {
+                "payGrade": "E-6",
+                "abbreviation": "PO1",
+                "title": "Petty Officer 1st Class",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e6-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e6-lrg.gif"
+            },
+            {
+                "payGrade": "E-7",
+                "abbreviation": "CPO",
+                "title": "Chief Petty Officer",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e7-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e7-lrg.gif"
+            },
+            {
+                "payGrade": "E-8",
+                "abbreviation": "SCPO",
+                "title": "Senior Chief Petty Officer",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e8-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e8-lrg.gif"
+            },
+            {
+                "payGrade": "E-9",
+                "abbreviation": "MCPO",
+                "title": "Master Chief Petty Officer",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e9a-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e9a-lrg.gif"
+            },
+            {
+                "payGrade": "E-9",
+                "abbreviation": "CMC",
+                "title": "Command Master Chief Petty Officer",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e9b-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e9b-lrg.gif"
+            },
+            {
+                "payGrade": "E-9",
+                "abbreviation": "MCPOCG",
+                "title": "Master Chief Petty Officer of the Coast Guard",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e10-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/e10-lrg.gif"
+            },
+            {
+                "payGrade": "W-2",
+                "abbreviation": "CWO2",
+                "title": "Chief Warrant Officer 2",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/cwo2-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/cwo2-lrg.gif"
+            },
+            {
+                "payGrade": "W-3",
+                "abbreviation": "CWO3",
+                "title": "Chief Warrant Officer 3",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/cwo3-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/cwo3-lrg.gif"
+            },
+            {
+                "payGrade": "W-4",
+                "abbreviation": "CWO4",
+                "title": "Chief Warrant Officer 4",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/cwo4-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/cwo4-lrg.gif"
+            },
+            {
+                "payGrade": "O-1",
+                "abbreviation": "ENS",
+                "title": "Ensign",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/2lt-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/2lt-lrg.gif"
+            },
+            {
+                "payGrade": "O-2",
+                "abbreviation": "LTJG",
+                "title": "Lieutenant Junior Grade",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/1lt-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/1lt-lrg.gif"
+            },
+            {
+                "payGrade": "O-3",
+                "abbreviation": "LT",
+                "title": "Lieutenant",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/cap-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/cap-lrg.gif"
+            },
+            {
+                "payGrade": "O-4",
+                "abbreviation": "LCDR",
+                "title": "Lieutenant Commander",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/maj-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/maj-lrg.gif"
+            },
+            {
+                "payGrade": "O-5",
+                "abbreviation": "CDR",
+                "title": "Commander",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/ltcol-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/ltcol-lrg.gif"
+            },
+            {
+                "payGrade": "O-6",
+                "abbreviation": "CAPT",
+                "title": "Captain",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/col-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/col-lrg.gif"
+            },
+            {
+                "payGrade": "O-7",
+                "abbreviation": "RDML",
+                "title": "Rear Admiral (Lwr Hlf)",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/briggen-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/briggen-lrg.gif"
+            },
+            {
+                "payGrade": "O-8",
+                "abbreviation": "RADM",
+                "title": "Rear Admiral (Uppr Hlf)",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/majgen-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/majgen-lrg.gif"
+            },
+            {
+                "payGrade": "O-9",
+                "abbreviation": "VADM",
+                "title": "Vice Admiral",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/ltgen-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/ltgen-lrg.gif"
+            },
+            {
+                "payGrade": "O-10",
+                "abbreviation": "ADM",
+                "title": "Admiral Chief of Naval Ops / Commandant of the CG",
+                "insigniaImage": "http://militaryfactory.com/ranks/imgs/insignia_uscg/gen4-sml.gif",
+                "insigniaImageHD": "http://militaryfactory.com/ranks/imgs/insignia_uscg/gen4-lrg.gif"
+            }
+        ]
+    }
+}
