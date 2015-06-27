@@ -15,6 +15,8 @@ import android.widget.ListView;
 import android.widget.Switch;
 import android.widget.TextView;
 
+import com.squareup.picasso.Picasso;
+
 import org.w3c.dom.Text;
 
 import java.io.Serializable;
@@ -117,6 +119,10 @@ class MyAdapter extends BaseAdapter {
         TextView txtViewRankTitle = (TextView) convertView.findViewById(R.id.title);
         TextView txtViewPayGrade = (TextView) convertView.findViewById(R.id.payGrade);
         TextView txtViewAbbr = (TextView) convertView.findViewById(R.id.abbr);
+
+        ImageView imageOfEachRank = (ImageView) convertView.findViewById(R.id.image);
+
+        Picasso.with(mContext).load(rank.getImgLinkHD()).into(imageOfEachRank);
 
         txtViewRankTitle.setText(rank.getTitle());
         txtViewAbbr.setText(rank.getAbbr());

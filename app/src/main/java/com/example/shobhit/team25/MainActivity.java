@@ -16,6 +16,8 @@ import android.widget.Switch;
 import android.widget.TextView;
 import android.content.Intent;
 
+import com.squareup.picasso.Picasso;
+
 import java.util.ArrayList;
 
 public class MainActivity extends Activity {
@@ -112,7 +114,7 @@ class CustomAdapter extends BaseAdapter{
 
 
                 ImageView imageOfBranch = (ImageView) convertView.findViewById(R.id.imageMain);
-
+				Picasso.with(mContext).load(br.getLogoLink()).into(imageOfBranch);
                 txtViewNameOfBranch.setText(br.getTitle());
 
 
